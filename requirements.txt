@@ -3,3 +3,6 @@ Pillow
 torch
 torchvision
 matplotlib
+numpy
+opencv-python
+typing-extensions>=4.10.0
